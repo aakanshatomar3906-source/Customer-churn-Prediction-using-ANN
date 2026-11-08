@@ -127,7 +127,7 @@ The model's performance can be evaluated using the following metrics:
 
 | Evaluation Metric | Result |
 |---|---|
-| Accuracy | Add your result |
+| Accuracy | 80.35 % |
 
 
 
